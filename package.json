@@ -1,0 +1,19 @@
+{
+  "name": "jquery-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gallery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vVictoRras/jQuery-Gallery.git"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vVictoRras/jQuery-Gallery/issues"
+  },
+  "homepage": "https://github.com/vVictoRras/jQuery-Gallery#readme"
+}
